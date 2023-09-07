@@ -1,0 +1,2315 @@
+[
+  {
+    "song": [
+      {
+        "id": "e93b560a-a4ad-4adc-b6c8-582047669dc6",
+        "title": "Hallelujah",
+        "artist": "Leonard Cohen",
+        "genre": "Folk",
+        "duration": 32644,
+        "release_date": "2023-09-06T19:15:34.910Z",
+        "created_at": "2023-09-06T15:47:00.700Z",
+        "updated_at": "2023-09-06T14:42:48.782Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "616c258c-8358-48b4-8fed-93d401f7e872",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "duration": 2312,
+        "release_date": "2023-09-06T23:14:31.630Z",
+        "created_at": "2023-09-06T13:11:38.461Z",
+        "updated_at": "2023-09-07T07:20:45.290Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "488b30bf-9735-4953-9ac0-c45fe6708381",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Classic Rock",
+        "duration": 89788,
+        "release_date": "2023-09-06T23:42:04.686Z",
+        "created_at": "2023-09-06T17:44:30.157Z",
+        "updated_at": "2023-09-06T21:20:26.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e8cb85d-12ff-4bac-a0ae-1f8330f1aa69",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Pop",
+        "duration": 42387,
+        "release_date": "2023-09-07T09:06:27.433Z",
+        "created_at": "2023-09-06T18:53:52.407Z",
+        "updated_at": "2023-09-07T04:05:05.526Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8271d6af-efcd-4c5a-9710-e5a78e11a7e2",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "genre": "Blues",
+        "duration": 67491,
+        "release_date": "2023-09-06T10:44:10.541Z",
+        "created_at": "2023-09-07T02:04:53.557Z",
+        "updated_at": "2023-09-06T16:45:02.088Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "cdf2c9f9-d19f-4de2-8953-f3bd8a55cfdc",
+        "name": "Road Trip",
+        "description": "A collection of songs for your next road trip",
+        "date_created": "2023-09-06T20:21:09.796Z",
+        "last_updated": "2023-09-07T05:11:34.111Z",
+        "created_at": "2023-09-06T14:36:17.948Z",
+        "updated_at": "2023-09-07T06:15:21.674Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fb706bd-573f-4da2-ac57-a2ee9896ee06",
+        "name": "Chill Vibes",
+        "description": "Relax and unwind with these chill vibes",
+        "date_created": "2023-09-06T12:40:36.401Z",
+        "last_updated": "2023-09-07T09:27:33.800Z",
+        "created_at": "2023-09-06T10:31:52.425Z",
+        "updated_at": "2023-09-07T05:05:21.784Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7c43dca-1925-4775-8ddc-6dd77de3ffd3",
+        "name": "Party Mix",
+        "description": "Get the party started with this mix",
+        "date_created": "2023-09-07T06:06:55.959Z",
+        "last_updated": "2023-09-07T02:33:56.174Z",
+        "created_at": "2023-09-07T03:15:40.240Z",
+        "updated_at": "2023-09-06T17:13:18.845Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb88e27a-fa00-445a-8c93-90c6d5059a4e",
+        "name": "Workout Jams",
+        "description": "Energize your workout with these jams",
+        "date_created": "2023-09-06T17:27:04.209Z",
+        "last_updated": "2023-09-07T00:16:06.482Z",
+        "created_at": "2023-09-06T18:39:48.750Z",
+        "updated_at": "2023-09-06T22:26:08.922Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21e58964-105f-457d-92d7-7e8c99ee74c4",
+        "name": "Relaxing Tunes",
+        "description": "Sit back and enjoy these relaxing tunes",
+        "date_created": "2023-09-06T13:53:29.894Z",
+        "last_updated": "2023-09-06T19:10:06.635Z",
+        "created_at": "2023-09-07T02:13:43.894Z",
+        "updated_at": "2023-09-06T19:47:02.105Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "c7333c9b-43c0-4e06-9211-9a1623a7ab4f",
+        "name": "Music Master",
+        "brand": "Acoustic Audio",
+        "model": "M100",
+        "storage_capacity": 86413,
+        "battery_life": 13841,
+        "created_at": "2023-09-07T07:53:51.891Z",
+        "updated_at": "2023-09-06T12:17:12.448Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e00b7ec4-d84e-4067-bf8e-2ade2d088c7a",
+        "name": "Soundwave",
+        "brand": "Beatbox",
+        "model": "S200",
+        "storage_capacity": 63105,
+        "battery_life": 11962,
+        "created_at": "2023-09-07T04:22:54.646Z",
+        "updated_at": "2023-09-06T14:36:23.434Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0c06525-df47-4f25-8306-d4a66ac5b7d1",
+        "name": "Melody Maker",
+        "brand": "Harmony",
+        "model": "MM500",
+        "storage_capacity": 38831,
+        "battery_life": 31012,
+        "created_at": "2023-09-06T16:26:08.762Z",
+        "updated_at": "2023-09-06T17:34:41.786Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a61092d9-ca5d-4554-90f1-dd7dcf7f87b9",
+        "name": "Rhythm Rider",
+        "brand": "Symphony Sound",
+        "model": "RR300",
+        "storage_capacity": 95717,
+        "battery_life": 67834,
+        "created_at": "2023-09-06T14:46:32.862Z",
+        "updated_at": "2023-09-07T05:42:36.885Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b1e1e2b-718c-48ab-89f9-b6391aa6fc02",
+        "name": "Audio Ace",
+        "brand": "TuneBox",
+        "model": "AA900",
+        "storage_capacity": 4967,
+        "battery_life": 40326,
+        "created_at": "2023-09-06T12:38:57.579Z",
+        "updated_at": "2023-09-06T21:50:27.619Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "b106f7ec-fc31-4411-8e3a-3da3d0ec9140",
+        "date_added": "2023-09-07T02:47:30.998Z",
+        "created_at": "2023-09-06T11:14:26.971Z",
+        "updated_at": "2023-09-06T10:27:14.148Z",
+        "song_id": "616c258c-8358-48b4-8fed-93d401f7e872",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06e63cdf-4b5c-46e3-b2ce-a8dbea9d56d2",
+        "date_added": "2023-09-06T18:47:09.152Z",
+        "created_at": "2023-09-06T16:53:57.265Z",
+        "updated_at": "2023-09-07T03:45:22.706Z",
+        "song_id": "616c258c-8358-48b4-8fed-93d401f7e872",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b77bb38-f35f-42d8-a89b-3c4a78c2c3e7",
+        "date_added": "2023-09-06T16:24:41.065Z",
+        "created_at": "2023-09-06T17:59:16.746Z",
+        "updated_at": "2023-09-07T08:23:14.312Z",
+        "song_id": "8e8cb85d-12ff-4bac-a0ae-1f8330f1aa69",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb33ce01-d1c5-4cf3-a520-b82f7a80ba4e",
+        "date_added": "2023-09-06T17:13:31.703Z",
+        "created_at": "2023-09-06T20:52:20.940Z",
+        "updated_at": "2023-09-06T13:39:37.928Z",
+        "song_id": "616c258c-8358-48b4-8fed-93d401f7e872",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e3d070e-7dac-46ff-96b0-a77db5051d5f",
+        "date_added": "2023-09-06T14:16:27.977Z",
+        "created_at": "2023-09-06T21:12:51.386Z",
+        "updated_at": "2023-09-06T20:13:31.211Z",
+        "song_id": "8271d6af-efcd-4c5a-9710-e5a78e11a7e2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1004ee58-25f0-45fb-9867-7312fd6d2192",
+        "email": "Jonathon2@yahoo.com",
+        "firstName": "Llewellyn",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/507.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3eb24b6e-7c11-4f35-8ec2-eaf3db860889",
+        "email": "Marilyne.Maggio50@gmail.com",
+        "firstName": "Joelle",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83931432",
+        "tenantId": null
+      },
+      {
+        "reference": "bb16089f-ed2e-4a33-a002-981941e48279",
+        "email": "Rafaela_Pagac7@hotmail.com",
+        "firstName": "Donavon",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60921478",
+        "tenantId": null
+      },
+      {
+        "reference": "c808d365-b53a-4210-80e0-d08f0695c4fa",
+        "email": "Katheryn.Morissette13@hotmail.com",
+        "firstName": "Lesley",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/951.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0921c481-e644-45d4-9e1e-03ad0c62557c",
+        "email": "Lisandro_Quitzon@yahoo.com",
+        "firstName": "Thelma",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/746.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "dd9a9ae1-1e5b-431c-b23d-7fe2363d6d83",
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "genre": "Rock",
+        "duration": 77642,
+        "release_date": "2023-09-07T00:01:17.822Z",
+        "created_at": "2023-09-07T06:08:56.128Z",
+        "updated_at": "2023-09-07T01:44:32.833Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "037fdae3-76ac-41a2-abb4-137008f9800b",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Pop",
+        "duration": 62559,
+        "release_date": "2023-09-07T04:12:38.491Z",
+        "created_at": "2023-09-07T05:02:52.847Z",
+        "updated_at": "2023-09-06T22:23:49.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03086361-a83d-4b60-8d81-54df7564a4ae",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Country",
+        "duration": 60284,
+        "release_date": "2023-09-06T18:38:06.132Z",
+        "created_at": "2023-09-07T01:14:15.892Z",
+        "updated_at": "2023-09-06T14:45:08.535Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d12cc43-ce4c-4b68-a93c-87cd2ed84dca",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Hip Hop",
+        "duration": 55192,
+        "release_date": "2023-09-06T23:08:41.633Z",
+        "created_at": "2023-09-06T21:41:29.304Z",
+        "updated_at": "2023-09-06T13:58:36.491Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d346174-f1b4-4c26-ba05-8b19fcf0a21f",
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "genre": "Jazz",
+        "duration": 98526,
+        "release_date": "2023-09-06T11:35:00.420Z",
+        "created_at": "2023-09-07T06:59:14.386Z",
+        "updated_at": "2023-09-06T15:07:10.992Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "3f2605f9-5544-4e37-9e84-9a3bcbdbdf55",
+        "name": "Favorites",
+        "description": "A collection of my favorite songs",
+        "date_created": "2023-09-06T11:40:49.118Z",
+        "last_updated": "2023-09-06T14:55:02.362Z",
+        "created_at": "2023-09-06T14:06:37.065Z",
+        "updated_at": "2023-09-06T10:20:50.338Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "daf2f9d7-5be9-49fb-bbeb-fbc8638ebdc1",
+        "name": "Party Mix",
+        "description": "Get the party started with these tracks",
+        "date_created": "2023-09-06T20:11:18.385Z",
+        "last_updated": "2023-09-06T10:31:01.794Z",
+        "created_at": "2023-09-07T06:33:51.349Z",
+        "updated_at": "2023-09-06T11:37:16.111Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d85be0b1-763f-40de-8216-2b8061ce2fbb",
+        "name": "Chill Vibes",
+        "description": "Relax and unwind with these chill tunes",
+        "date_created": "2023-09-07T03:45:17.265Z",
+        "last_updated": "2023-09-06T23:28:41.100Z",
+        "created_at": "2023-09-07T05:33:55.201Z",
+        "updated_at": "2023-09-06T11:29:25.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5f3eedb-b442-4587-803a-4a2b3bcefbbc",
+        "name": "Road Trip",
+        "description": "Perfect for your next road trip",
+        "date_created": "2023-09-07T08:06:29.473Z",
+        "last_updated": "2023-09-06T17:04:59.073Z",
+        "created_at": "2023-09-06T12:20:32.746Z",
+        "updated_at": "2023-09-07T08:55:33.884Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f70234f-03d7-4c9d-a885-1b04abe5f3a2",
+        "name": "Workout Jams",
+        "description": "Motivate your workout with these energetic beats",
+        "date_created": "2023-09-06T12:55:37.343Z",
+        "last_updated": "2023-09-07T03:02:07.317Z",
+        "created_at": "2023-09-07T00:10:35.750Z",
+        "updated_at": "2023-09-06T18:38:26.073Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "c5a2b4bd-88c7-4293-86c2-7351f37d1b7b",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "X10",
+        "storage_capacity": 43702,
+        "battery_life": 39931,
+        "created_at": "2023-09-06T19:47:05.242Z",
+        "updated_at": "2023-09-06T13:26:59.443Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cf6df1f-eadf-4b06-b71c-4a97666cf115",
+        "name": "Soundwave",
+        "brand": "Apple",
+        "model": "ProMax",
+        "storage_capacity": 35391,
+        "battery_life": 62101,
+        "created_at": "2023-09-07T07:02:50.230Z",
+        "updated_at": "2023-09-06T15:11:21.076Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a46c1ff-c84d-444f-b203-1a4b06f74967",
+        "name": "Melody Maker",
+        "brand": "Samsung",
+        "model": "Galaxy Beats",
+        "storage_capacity": 13539,
+        "battery_life": 74688,
+        "created_at": "2023-09-07T03:53:28.453Z",
+        "updated_at": "2023-09-06T10:22:51.643Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "024fc4de-a296-41b2-86ac-9e5b59db5926",
+        "name": "Rhythm Player",
+        "brand": "Bose",
+        "model": "QuietComfort",
+        "storage_capacity": 87554,
+        "battery_life": 14240,
+        "created_at": "2023-09-06T20:30:16.967Z",
+        "updated_at": "2023-09-07T07:43:49.901Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e184905-86f4-4193-b307-e7163598a5fe",
+        "name": "Beat Box",
+        "brand": "JBL",
+        "model": "Pulse",
+        "storage_capacity": 24820,
+        "battery_life": 26910,
+        "created_at": "2023-09-06T21:52:30.475Z",
+        "updated_at": "2023-09-06T11:21:25.071Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "398a7264-a289-4427-828b-2bbc66c59ad8",
+        "date_added": "2023-09-06T17:28:06.562Z",
+        "created_at": "2023-09-07T09:32:54.517Z",
+        "updated_at": "2023-09-06T19:27:28.459Z",
+        "song_id": "03086361-a83d-4b60-8d81-54df7564a4ae",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "671b3dba-5099-49f1-a9b1-4cd27c7566fb",
+        "date_added": "2023-09-07T06:11:48.527Z",
+        "created_at": "2023-09-06T10:35:07.553Z",
+        "updated_at": "2023-09-06T15:09:38.717Z",
+        "song_id": "037fdae3-76ac-41a2-abb4-137008f9800b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "819858c2-acb7-4310-8ad5-cd9a20065e85",
+        "date_added": "2023-09-07T03:30:41.338Z",
+        "created_at": "2023-09-07T04:15:53.603Z",
+        "updated_at": "2023-09-06T10:20:29.672Z",
+        "song_id": "4d346174-f1b4-4c26-ba05-8b19fcf0a21f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "717b6319-71e6-40fb-a828-7bb637f6a329",
+        "date_added": "2023-09-07T00:01:49.616Z",
+        "created_at": "2023-09-06T15:28:55.839Z",
+        "updated_at": "2023-09-06T22:48:33.905Z",
+        "song_id": "dd9a9ae1-1e5b-431c-b23d-7fe2363d6d83",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f8dcfc0-de2c-456a-a264-d3064971c5e5",
+        "date_added": "2023-09-07T06:03:55.877Z",
+        "created_at": "2023-09-07T06:39:53.876Z",
+        "updated_at": "2023-09-06T20:19:20.756Z",
+        "song_id": "4d346174-f1b4-4c26-ba05-8b19fcf0a21f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bc638992-c6ea-453a-b503-f0736b0c18d7",
+        "email": "Rafaela.Daniel@hotmail.com",
+        "firstName": "Della",
+        "lastName": "Friesen-Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63610160",
+        "tenantId": null
+      },
+      {
+        "reference": "4a1b983a-8b22-45e9-bf3e-6b4df7153b7b",
+        "email": "Lula.Hammes@gmail.com",
+        "firstName": "Whitney",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fde78af1-4fcc-4dd3-9399-e176963a32b3",
+        "email": "Mason52@hotmail.com",
+        "firstName": "Noemie",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/442.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3261b0e5-5b2f-4ff0-b7a3-328f7dfd713f",
+        "email": "Murphy_Waters@hotmail.com",
+        "firstName": "Dante",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36497489",
+        "tenantId": null
+      },
+      {
+        "reference": "c9cbac48-dc68-47bd-ae0c-449fd72e3780",
+        "email": "Emma.Bogisich@yahoo.com",
+        "firstName": "Marianna",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98704965",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "180d4924-0245-4025-8805-de3756c77cf9",
+        "title": "In My Feelings",
+        "artist": "Drake",
+        "genre": "Pop",
+        "duration": 33748,
+        "release_date": "2023-09-07T08:46:18.779Z",
+        "created_at": "2023-09-06T12:38:47.159Z",
+        "updated_at": "2023-09-07T07:41:04.199Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "147d8f44-d7ed-47fa-948b-373791d1f31a",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Hip Hop",
+        "duration": 65971,
+        "release_date": "2023-09-06T20:24:29.069Z",
+        "created_at": "2023-09-07T03:15:29.088Z",
+        "updated_at": "2023-09-06T10:50:47.092Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "374bae8c-81b2-4ba9-ba36-7bedc101785d",
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson",
+        "genre": "R&B",
+        "duration": 75746,
+        "release_date": "2023-09-07T01:10:57.176Z",
+        "created_at": "2023-09-06T17:37:58.984Z",
+        "updated_at": "2023-09-07T03:07:16.100Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9587b472-bb8b-4447-b19c-5c87c4ea527f",
+        "title": "Hello",
+        "artist": "Adele",
+        "genre": "Rock",
+        "duration": 12226,
+        "release_date": "2023-09-06T14:08:00.421Z",
+        "created_at": "2023-09-07T07:30:28.807Z",
+        "updated_at": "2023-09-07T01:30:15.900Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be477376-1377-4134-b996-741529518686",
+        "title": "Despacito",
+        "artist": "Luis Fonsi",
+        "genre": "Latin",
+        "duration": 90506,
+        "release_date": "2023-09-07T08:48:57.882Z",
+        "created_at": "2023-09-07T02:29:38.426Z",
+        "updated_at": "2023-09-07T04:20:33.653Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "34dfa662-068b-4998-aa1a-89fc2493a0fe",
+        "name": "Summer Vibes",
+        "description": "A collection of upbeat songs for the summer",
+        "date_created": "2023-09-07T09:22:54.170Z",
+        "last_updated": "2023-09-06T13:22:31.447Z",
+        "created_at": "2023-09-06T19:51:50.511Z",
+        "updated_at": "2023-09-06T15:41:49.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24b082ea-63ec-4b28-bd13-44cca2c74c5f",
+        "name": "Throwback Hits",
+        "description": "Classic hits from the 90s and early 2000s",
+        "date_created": "2023-09-06T11:47:03.122Z",
+        "last_updated": "2023-09-07T03:52:32.057Z",
+        "created_at": "2023-09-07T00:43:21.821Z",
+        "updated_at": "2023-09-06T11:13:59.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05543408-a919-4166-882d-1f33eb9fd9e5",
+        "name": "Chill Out",
+        "description": "Relaxing tunes to unwind and destress",
+        "date_created": "2023-09-06T17:22:24.382Z",
+        "last_updated": "2023-09-07T06:34:13.494Z",
+        "created_at": "2023-09-07T02:21:12.000Z",
+        "updated_at": "2023-09-07T02:02:19.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "549ba303-be12-4f34-ac57-d7166da07f07",
+        "name": "Workout Jams",
+        "description": "Energetic tracks to get you pumped up during workouts",
+        "date_created": "2023-09-07T01:11:01.300Z",
+        "last_updated": "2023-09-06T16:16:36.650Z",
+        "created_at": "2023-09-06T12:17:57.596Z",
+        "updated_at": "2023-09-07T06:12:54.082Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6da29bbe-eaa0-429f-b92d-4495cc89215d",
+        "name": "Party Mix",
+        "description": "The ultimate playlist for any party",
+        "date_created": "2023-09-07T07:31:37.440Z",
+        "last_updated": "2023-09-06T18:19:53.919Z",
+        "created_at": "2023-09-06T21:13:58.809Z",
+        "updated_at": "2023-09-06T12:35:27.142Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "c5277d8e-4b36-4cce-838c-c79f4a97c116",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "MP3-2000",
+        "storage_capacity": 51030,
+        "battery_life": 91495,
+        "created_at": "2023-09-06T12:02:28.588Z",
+        "updated_at": "2023-09-06T20:09:56.196Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36b84683-fe56-4c3f-a602-cd7a1ef7b2f9",
+        "name": "Audio Pro",
+        "brand": "Apple",
+        "model": "Xtreme 500",
+        "storage_capacity": 79059,
+        "battery_life": 76178,
+        "created_at": "2023-09-06T22:52:42.114Z",
+        "updated_at": "2023-09-07T08:41:23.717Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aff54f86-12ab-4c66-8925-1b43964923c7",
+        "name": "Soundwave",
+        "brand": "Bose",
+        "model": "SoundBlast 300",
+        "storage_capacity": 90351,
+        "battery_life": 29603,
+        "created_at": "2023-09-07T02:52:44.129Z",
+        "updated_at": "2023-09-07T00:25:55.264Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0675426c-29c9-4fe3-bbbd-9bf00fa3783d",
+        "name": "BeatBox",
+        "brand": "Samsung",
+        "model": "GrooveX 1000",
+        "storage_capacity": 13787,
+        "battery_life": 28476,
+        "created_at": "2023-09-07T10:11:01.109Z",
+        "updated_at": "2023-09-07T07:31:49.307Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e58c8b4-2b15-49b2-a1b8-553f5ca41550",
+        "name": "Melody Maker",
+        "brand": "JBL",
+        "model": "Harmony 700",
+        "storage_capacity": 64846,
+        "battery_life": 5480,
+        "created_at": "2023-09-06T12:13:23.837Z",
+        "updated_at": "2023-09-06T17:03:51.131Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "c562a637-6f89-469b-a249-e2f5ef349b71",
+        "date_added": "2023-09-07T01:07:21.285Z",
+        "created_at": "2023-09-06T18:53:39.685Z",
+        "updated_at": "2023-09-07T05:14:20.746Z",
+        "song_id": "147d8f44-d7ed-47fa-948b-373791d1f31a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7872e730-e8c5-4516-9087-7edae68c1d7b",
+        "date_added": "2023-09-06T10:41:51.233Z",
+        "created_at": "2023-09-07T08:04:58.118Z",
+        "updated_at": "2023-09-06T18:49:11.312Z",
+        "song_id": "be477376-1377-4134-b996-741529518686",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "559cd758-8165-448b-a4ea-efaad06e5148",
+        "date_added": "2023-09-06T23:53:38.559Z",
+        "created_at": "2023-09-06T21:21:57.582Z",
+        "updated_at": "2023-09-07T00:28:07.892Z",
+        "song_id": "147d8f44-d7ed-47fa-948b-373791d1f31a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a40759e6-92f4-494f-9111-7fe2f4db12e5",
+        "date_added": "2023-09-06T13:19:44.598Z",
+        "created_at": "2023-09-07T07:12:17.513Z",
+        "updated_at": "2023-09-06T18:48:39.902Z",
+        "song_id": "147d8f44-d7ed-47fa-948b-373791d1f31a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65c7a754-fba7-40c1-910f-df7d63c66a20",
+        "date_added": "2023-09-06T17:46:36.322Z",
+        "created_at": "2023-09-06T22:48:00.123Z",
+        "updated_at": "2023-09-07T05:35:44.140Z",
+        "song_id": "be477376-1377-4134-b996-741529518686",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "733c9b3d-8cab-4fc7-9fcb-084f04db5a24",
+        "email": "Janet_Grant86@hotmail.com",
+        "firstName": "Emery",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bfeab0d9-41cc-411a-98c1-77a0a452a875",
+        "email": "Edgar.Goldner@hotmail.com",
+        "firstName": "Alysa",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94133236",
+        "tenantId": null
+      },
+      {
+        "reference": "ecb244e8-8631-48ed-882f-16ad50efa486",
+        "email": "Eva_Kling55@gmail.com",
+        "firstName": "Fletcher",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81697141",
+        "tenantId": null
+      },
+      {
+        "reference": "d4898e4f-335f-42d2-8f4f-731207a96221",
+        "email": "Robbie97@hotmail.com",
+        "firstName": "Austin",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/769476",
+        "tenantId": null
+      },
+      {
+        "reference": "d370389e-a342-4b73-8c04-b705c4ee45b2",
+        "email": "Aliyah14@gmail.com",
+        "firstName": "Kurt",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/91.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "47274d56-3814-4091-bf8b-134dabbf5041",
+        "title": "Happy",
+        "artist": "Taylor Swift",
+        "genre": "Pop",
+        "duration": 64122,
+        "release_date": "2023-09-06T12:50:07.371Z",
+        "created_at": "2023-09-06T10:41:33.222Z",
+        "updated_at": "2023-09-06T17:11:41.775Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e91b4beb-0dfe-4b3f-8405-11d44f9db67c",
+        "title": "Dreams",
+        "artist": "Ed Sheeran",
+        "genre": "Rock",
+        "duration": 3067,
+        "release_date": "2023-09-06T11:21:52.423Z",
+        "created_at": "2023-09-07T10:02:48.107Z",
+        "updated_at": "2023-09-06T23:33:07.016Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91abbdcb-1511-4bd9-a75d-359c37eddf03",
+        "title": "Sunshine",
+        "artist": "Adele",
+        "genre": "R&B",
+        "duration": 11717,
+        "release_date": "2023-09-06T19:42:32.066Z",
+        "created_at": "2023-09-07T01:15:01.661Z",
+        "updated_at": "2023-09-06T18:57:43.753Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f0460d2-e102-4c94-80ba-d8bb2d9a67c4",
+        "title": "Memories",
+        "artist": "Maroon 5",
+        "genre": "Country",
+        "duration": 60004,
+        "release_date": "2023-09-06T13:01:45.400Z",
+        "created_at": "2023-09-06T22:27:58.420Z",
+        "updated_at": "2023-09-06T23:51:18.352Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33a47b8d-f07a-411c-885f-bd7ecefe26b0",
+        "title": "Journey",
+        "artist": "Coldplay",
+        "genre": "Hip Hop",
+        "duration": 63864,
+        "release_date": "2023-09-06T20:09:41.368Z",
+        "created_at": "2023-09-06T18:04:47.530Z",
+        "updated_at": "2023-09-07T06:41:52.495Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "7ca2d685-0556-4bf0-971f-fb4a010d97d2",
+        "name": "Summer Vibes",
+        "description": "A collection of upbeat songs for the summer",
+        "date_created": "2023-09-06T11:35:27.929Z",
+        "last_updated": "2023-09-07T05:07:33.758Z",
+        "created_at": "2023-09-06T12:16:58.958Z",
+        "updated_at": "2023-09-07T08:44:34.239Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11fd7b24-ca92-4aba-bf82-4e2c88527e22",
+        "name": "Chill Out",
+        "description": "Relaxing tunes to unwind",
+        "date_created": "2023-09-07T05:25:07.059Z",
+        "last_updated": "2023-09-07T03:19:03.646Z",
+        "created_at": "2023-09-07T00:37:52.296Z",
+        "updated_at": "2023-09-07T10:16:44.489Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0503a47-03ff-4b75-8a6c-7486ce898af9",
+        "name": "Road Trip",
+        "description": "Perfect for long drives",
+        "date_created": "2023-09-07T04:10:53.490Z",
+        "last_updated": "2023-09-07T07:00:29.355Z",
+        "created_at": "2023-09-06T22:55:04.734Z",
+        "updated_at": "2023-09-07T05:00:41.633Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "605237ef-23eb-4783-bec3-e0dcddd3ee89",
+        "name": "Workout Mix",
+        "description": "Energetic tracks for exercising",
+        "date_created": "2023-09-06T14:10:16.308Z",
+        "last_updated": "2023-09-07T09:21:25.582Z",
+        "created_at": "2023-09-06T15:23:17.031Z",
+        "updated_at": "2023-09-06T19:08:32.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e6455aa-94ca-43b8-ac6c-5fcd79a3de05",
+        "name": "Party Hits",
+        "description": "Get the party started with these hits",
+        "date_created": "2023-09-06T10:53:14.124Z",
+        "last_updated": "2023-09-07T06:30:18.777Z",
+        "created_at": "2023-09-07T09:47:47.066Z",
+        "updated_at": "2023-09-07T07:15:23.820Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "c5103dea-d50c-4834-84e4-d379dde5a55f",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "X1000",
+        "storage_capacity": 98341,
+        "battery_life": 49087,
+        "created_at": "2023-09-06T15:05:23.616Z",
+        "updated_at": "2023-09-06T13:03:34.268Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bae96311-5450-4954-9f2d-db1f2c396c38",
+        "name": "SoundWave",
+        "brand": "Apple",
+        "model": "ProMax",
+        "storage_capacity": 59792,
+        "battery_life": 51517,
+        "created_at": "2023-09-06T11:46:43.149Z",
+        "updated_at": "2023-09-07T08:25:31.734Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad9f2d59-f3af-43c0-902a-356d61d946ee",
+        "name": "BeatBox",
+        "brand": "Samsung",
+        "model": "GalaxyPlayer",
+        "storage_capacity": 98179,
+        "battery_life": 80633,
+        "created_at": "2023-09-07T02:08:06.291Z",
+        "updated_at": "2023-09-06T11:39:37.745Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5abdf1e1-2b25-4696-8c27-39330c556962",
+        "name": "Melody Maker",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "storage_capacity": 28254,
+        "battery_life": 24861,
+        "created_at": "2023-09-06T11:59:33.777Z",
+        "updated_at": "2023-09-06T16:28:39.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e65545d3-bc92-49ee-b2da-6594e472f4bb",
+        "name": "Rhythm King",
+        "brand": "JBL",
+        "model": "PulseX",
+        "storage_capacity": 54364,
+        "battery_life": 78058,
+        "created_at": "2023-09-06T12:42:52.148Z",
+        "updated_at": "2023-09-06T23:00:07.066Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "1aca4e06-5230-4db2-b336-a69ce0a4998e",
+        "date_added": "2023-09-06T23:49:54.280Z",
+        "created_at": "2023-09-06T16:21:51.659Z",
+        "updated_at": "2023-09-07T00:06:26.006Z",
+        "song_id": "47274d56-3814-4091-bf8b-134dabbf5041",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e65a805d-cfb0-48c8-a3d5-c7209c5ddb1c",
+        "date_added": "2023-09-07T06:42:34.535Z",
+        "created_at": "2023-09-06T16:40:40.179Z",
+        "updated_at": "2023-09-07T08:54:30.216Z",
+        "song_id": "4f0460d2-e102-4c94-80ba-d8bb2d9a67c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "edb69d09-66ee-4c01-9bc4-f06d00e3a236",
+        "date_added": "2023-09-07T09:58:17.209Z",
+        "created_at": "2023-09-07T02:34:18.442Z",
+        "updated_at": "2023-09-07T06:29:54.399Z",
+        "song_id": "91abbdcb-1511-4bd9-a75d-359c37eddf03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71844bf6-67e2-46e5-b79d-275865013600",
+        "date_added": "2023-09-06T11:21:10.392Z",
+        "created_at": "2023-09-06T11:21:12.059Z",
+        "updated_at": "2023-09-06T18:11:55.127Z",
+        "song_id": "47274d56-3814-4091-bf8b-134dabbf5041",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a69897e-6434-4844-bf20-5e65418bfd1c",
+        "date_added": "2023-09-07T04:18:29.598Z",
+        "created_at": "2023-09-06T12:26:12.353Z",
+        "updated_at": "2023-09-07T07:10:32.558Z",
+        "song_id": "4f0460d2-e102-4c94-80ba-d8bb2d9a67c4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "60af5443-b3fa-4298-8cd7-a907253882f9",
+        "email": "Rahul_Moen@hotmail.com",
+        "firstName": "Lenora",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/839.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cfae3a75-af04-4035-bc6d-71c70872343b",
+        "email": "Neal_Bins@yahoo.com",
+        "firstName": "Major",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/736.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "682558e1-bf38-488b-b935-5b7d49539094",
+        "email": "Lea19@yahoo.com",
+        "firstName": "Randall",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/199.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3e4cd3a4-6523-48c4-8f44-50f5f82a977f",
+        "email": "Jarrett_Tillman@gmail.com",
+        "firstName": "Tyshawn",
+        "lastName": "Langosh-Conroy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/780.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8c2c2386-0f9e-4def-a5c9-9a6fab0e2e76",
+        "email": "Korey56@gmail.com",
+        "firstName": "Elijah",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/164.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "9f451550-a224-465c-a180-94a23fe0c175",
+        "title": "In My Feelings",
+        "artist": "Drake",
+        "genre": "Pop",
+        "duration": 87229,
+        "release_date": "2023-09-06T16:54:29.304Z",
+        "created_at": "2023-09-06T15:38:54.707Z",
+        "updated_at": "2023-09-06T10:42:07.158Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "625355a9-1f8f-4a4f-9534-c8313debc973",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "R&B",
+        "duration": 33329,
+        "release_date": "2023-09-07T05:04:30.118Z",
+        "created_at": "2023-09-06T13:05:44.047Z",
+        "updated_at": "2023-09-06T15:36:23.197Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3d958c9-6e65-4367-a1ae-672eac6218f2",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "Hip Hop",
+        "duration": 36234,
+        "release_date": "2023-09-06T19:25:30.413Z",
+        "created_at": "2023-09-06T16:10:20.268Z",
+        "updated_at": "2023-09-07T08:48:33.932Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40d6448d-0583-46be-b1aa-d692e70707b4",
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "genre": "Alternative",
+        "duration": 76350,
+        "release_date": "2023-09-06T15:14:00.177Z",
+        "created_at": "2023-09-07T02:42:33.876Z",
+        "updated_at": "2023-09-07T05:19:54.680Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebf5cba0-cd1a-4463-b6b2-e950cebf03b7",
+        "title": "Dance Monkey",
+        "artist": "Tones and I",
+        "genre": "Electronic",
+        "duration": 95441,
+        "release_date": "2023-09-06T16:13:26.923Z",
+        "created_at": "2023-09-06T18:28:11.589Z",
+        "updated_at": "2023-09-07T05:27:31.204Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "bca4e48c-7290-4322-95b6-09f7e423f23d",
+        "name": "Summer Vibes",
+        "description": "A collection of upbeat songs for the summer",
+        "date_created": "2023-09-06T23:39:52.926Z",
+        "last_updated": "2023-09-07T07:01:45.919Z",
+        "created_at": "2023-09-07T09:22:23.466Z",
+        "updated_at": "2023-09-07T02:39:13.082Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43ae28bc-f4a8-44bb-8c19-374fec5c6357",
+        "name": "Chill Out",
+        "description": "Relaxing tunes to unwind after a long day",
+        "date_created": "2023-09-06T21:57:48.863Z",
+        "last_updated": "2023-09-06T17:30:19.991Z",
+        "created_at": "2023-09-06T19:33:11.001Z",
+        "updated_at": "2023-09-07T05:49:16.107Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eebdc8e0-912e-49b9-8669-7cb7408ba9fa",
+        "name": "Workout Mix",
+        "description": "Energetic tracks to get you pumped up",
+        "date_created": "2023-09-07T00:16:46.453Z",
+        "last_updated": "2023-09-07T00:46:05.137Z",
+        "created_at": "2023-09-07T01:52:09.353Z",
+        "updated_at": "2023-09-06T16:47:18.196Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03f565e1-1874-4843-90fa-5779262a5154",
+        "name": "Throwback Jams",
+        "description": "Classic hits from the past",
+        "date_created": "2023-09-06T21:36:13.342Z",
+        "last_updated": "2023-09-06T13:35:04.035Z",
+        "created_at": "2023-09-07T04:16:21.177Z",
+        "updated_at": "2023-09-06T18:15:33.386Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "724c48b5-e663-45c2-a9c9-40afb15bf87d",
+        "name": "Party Anthems",
+        "description": "High-energy songs to get the party started",
+        "date_created": "2023-09-06T10:39:55.312Z",
+        "last_updated": "2023-09-06T18:24:44.948Z",
+        "created_at": "2023-09-07T01:56:26.060Z",
+        "updated_at": "2023-09-06T17:16:14.614Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "86273051-83be-401f-bdd5-8efa58003146",
+        "name": "MusicMaster",
+        "brand": "Sony",
+        "model": "M1",
+        "storage_capacity": 17029,
+        "battery_life": 19313,
+        "created_at": "2023-09-07T07:03:49.773Z",
+        "updated_at": "2023-09-07T03:48:19.343Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb000c4a-71b5-4ab8-bd3b-df0c535d2046",
+        "name": "SoundWave",
+        "brand": "Apple",
+        "model": "X2",
+        "storage_capacity": 37316,
+        "battery_life": 30024,
+        "created_at": "2023-09-06T13:55:40.171Z",
+        "updated_at": "2023-09-07T10:18:37.548Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06c5ebb2-11b6-4723-a0ae-03ae2e271420",
+        "name": "BeatBox",
+        "brand": "Samsung",
+        "model": "G3",
+        "storage_capacity": 62177,
+        "battery_life": 13281,
+        "created_at": "2023-09-06T20:14:22.543Z",
+        "updated_at": "2023-09-07T04:51:06.359Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dac62a1d-47eb-4d6d-b4fb-399969c16e02",
+        "name": "MelodyPlayer",
+        "brand": "Bose",
+        "model": "S4",
+        "storage_capacity": 43763,
+        "battery_life": 12114,
+        "created_at": "2023-09-07T07:59:04.946Z",
+        "updated_at": "2023-09-06T18:46:12.880Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6566cf48-17a8-4c6f-8610-ae98659efc8a",
+        "name": "RhythmPro",
+        "brand": "JBL",
+        "model": "B5",
+        "storage_capacity": 1995,
+        "battery_life": 32786,
+        "created_at": "2023-09-06T18:03:20.134Z",
+        "updated_at": "2023-09-06T18:27:52.981Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "dbbe3cfe-719c-4603-bbe3-c82144119403",
+        "date_added": "2023-09-06T14:05:24.732Z",
+        "created_at": "2023-09-06T14:05:35.205Z",
+        "updated_at": "2023-09-07T09:02:08.055Z",
+        "song_id": "d3d958c9-6e65-4367-a1ae-672eac6218f2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48ab9ed3-477b-443a-adbb-4c7328f59a99",
+        "date_added": "2023-09-06T10:52:48.768Z",
+        "created_at": "2023-09-06T17:48:07.127Z",
+        "updated_at": "2023-09-07T03:07:48.597Z",
+        "song_id": "ebf5cba0-cd1a-4463-b6b2-e950cebf03b7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72d60ff7-7725-4fbc-b38f-6c6e9de713d5",
+        "date_added": "2023-09-06T10:41:32.666Z",
+        "created_at": "2023-09-07T08:08:34.191Z",
+        "updated_at": "2023-09-06T13:28:21.267Z",
+        "song_id": "ebf5cba0-cd1a-4463-b6b2-e950cebf03b7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0da5f428-f809-453e-87b6-5e4995c8ceb6",
+        "date_added": "2023-09-07T03:32:12.449Z",
+        "created_at": "2023-09-06T21:31:58.284Z",
+        "updated_at": "2023-09-06T17:57:33.130Z",
+        "song_id": "ebf5cba0-cd1a-4463-b6b2-e950cebf03b7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a69bd19-cd86-44fb-8e8b-880b4c467abd",
+        "date_added": "2023-09-06T14:48:08.041Z",
+        "created_at": "2023-09-06T14:20:33.660Z",
+        "updated_at": "2023-09-07T06:49:02.976Z",
+        "song_id": "ebf5cba0-cd1a-4463-b6b2-e950cebf03b7",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2dea95ec-0424-408e-90ec-0e8e92f7f39c",
+        "email": "Ernest_MacGyver37@yahoo.com",
+        "firstName": "Thad",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22271532",
+        "tenantId": null
+      },
+      {
+        "reference": "b97ec2b9-b3bd-4035-bd49-17c346f1ef16",
+        "email": "Marlen_Gutmann87@hotmail.com",
+        "firstName": "Ivory",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70091989",
+        "tenantId": null
+      },
+      {
+        "reference": "54cebac0-ebbb-43d9-a771-3e396ba9bf94",
+        "email": "Vincenzo_Lubowitz@yahoo.com",
+        "firstName": "Graciela",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77377760",
+        "tenantId": null
+      },
+      {
+        "reference": "b8e97065-5f97-4508-ab41-cb5609a5da6e",
+        "email": "Mikel_Rogahn38@hotmail.com",
+        "firstName": "Margret",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87490657",
+        "tenantId": null
+      },
+      {
+        "reference": "897ca17d-5160-4e92-9161-fea9c155c857",
+        "email": "Augustine.Hand@yahoo.com",
+        "firstName": "Madisen",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98238600",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "04667c35-2e20-4a04-9711-8e9621acca10",
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "genre": "Rock",
+        "duration": 51435,
+        "release_date": "2023-09-06T13:43:15.121Z",
+        "created_at": "2023-09-07T06:55:17.130Z",
+        "updated_at": "2023-09-07T03:31:31.103Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64048cfd-7d98-4890-9846-8e89603a54e8",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Pop",
+        "duration": 48855,
+        "release_date": "2023-09-06T23:32:24.756Z",
+        "created_at": "2023-09-06T12:34:35.767Z",
+        "updated_at": "2023-09-06T11:32:36.765Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30538d21-d515-4366-b3d1-1b9a7437be16",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Classic",
+        "duration": 22741,
+        "release_date": "2023-09-06T23:00:28.089Z",
+        "created_at": "2023-09-07T04:22:12.276Z",
+        "updated_at": "2023-09-06T20:08:04.654Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d967b5de-026d-4569-a9b8-d32cf190924c",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Rock",
+        "duration": 13517,
+        "release_date": "2023-09-07T07:13:28.169Z",
+        "created_at": "2023-09-06T21:52:48.014Z",
+        "updated_at": "2023-09-06T12:29:32.876Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78f8814d-947e-4b62-b24e-bb714d8f8914",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "genre": "Pop",
+        "duration": 25723,
+        "release_date": "2023-09-07T07:39:48.372Z",
+        "created_at": "2023-09-07T00:14:29.156Z",
+        "updated_at": "2023-09-06T13:08:04.242Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "ea033339-ef3c-4163-b87e-95d3c9888bf9",
+        "name": "Summer Vibes",
+        "description": "A collection of upbeat songs for the summer",
+        "date_created": "2023-09-06T19:42:35.186Z",
+        "last_updated": "2023-09-06T19:03:34.203Z",
+        "created_at": "2023-09-06T11:07:59.050Z",
+        "updated_at": "2023-09-07T06:38:17.571Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b67438a2-1ebd-4ba0-b6be-d2844c6be662",
+        "name": "Chill Out",
+        "description": "Relaxing melodies for a peaceful evening",
+        "date_created": "2023-09-07T08:36:53.023Z",
+        "last_updated": "2023-09-07T10:16:59.475Z",
+        "created_at": "2023-09-06T21:32:08.972Z",
+        "updated_at": "2023-09-06T15:22:54.668Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0153ae6d-6bca-4643-adbc-d1ce0fe3c6de",
+        "name": "Road Trip",
+        "description": "Perfect tunes for a long drive",
+        "date_created": "2023-09-06T22:32:05.130Z",
+        "last_updated": "2023-09-07T09:41:50.307Z",
+        "created_at": "2023-09-06T15:07:40.086Z",
+        "updated_at": "2023-09-07T02:37:39.135Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6d301ef-5c1b-4d74-a4e5-9989da2c6fb6",
+        "name": "Party Mix",
+        "description": "Get the party started with these energetic tracks",
+        "date_created": "2023-09-06T16:04:17.042Z",
+        "last_updated": "2023-09-07T03:48:47.376Z",
+        "created_at": "2023-09-06T19:26:44.892Z",
+        "updated_at": "2023-09-07T06:15:34.361Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e35177c0-cc1b-4235-b644-0f16c47e153c",
+        "name": "Relaxing Tunes",
+        "description": "Unwind and destress with these calming songs",
+        "date_created": "2023-09-06T12:19:06.432Z",
+        "last_updated": "2023-09-06T11:29:06.317Z",
+        "created_at": "2023-09-07T00:11:38.547Z",
+        "updated_at": "2023-09-06T13:05:58.720Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "8482e8c2-adae-44a9-b35e-1d07fe79d5ee",
+        "name": "MusicMaster",
+        "brand": "Sony",
+        "model": "X1000",
+        "storage_capacity": 90133,
+        "battery_life": 93291,
+        "created_at": "2023-09-06T18:43:59.832Z",
+        "updated_at": "2023-09-06T13:00:02.468Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "baaff2a1-dbf8-4420-b0e5-343ad2a5bae0",
+        "name": "AudioWave",
+        "brand": "Apple",
+        "model": "iPod Pro",
+        "storage_capacity": 47094,
+        "battery_life": 5244,
+        "created_at": "2023-09-07T00:16:50.979Z",
+        "updated_at": "2023-09-06T11:31:48.541Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30b6362f-7687-40fc-b293-6fcbb03e9322",
+        "name": "SoundSoul",
+        "brand": "Samsung",
+        "model": "Galaxy Sound",
+        "storage_capacity": 69314,
+        "battery_life": 81359,
+        "created_at": "2023-09-06T10:24:45.738Z",
+        "updated_at": "2023-09-07T02:31:18.411Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba881bd4-5ec1-4be2-86f3-84f233bb1784",
+        "name": "MelodyPlayer",
+        "brand": "Bose",
+        "model": "QuietComfort",
+        "storage_capacity": 97934,
+        "battery_life": 3251,
+        "created_at": "2023-09-06T16:32:26.896Z",
+        "updated_at": "2023-09-06T17:17:01.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "628da11a-3bf3-4dea-a2dd-03575d7e619c",
+        "name": "BeatBox",
+        "brand": "JBL",
+        "model": "Pulse 500",
+        "storage_capacity": 48592,
+        "battery_life": 50390,
+        "created_at": "2023-09-06T14:30:44.572Z",
+        "updated_at": "2023-09-07T07:07:06.009Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "7a2063d4-32e1-4849-b0d4-3da0e2993c5b",
+        "date_added": "2023-09-06T20:19:23.924Z",
+        "created_at": "2023-09-07T06:51:12.571Z",
+        "updated_at": "2023-09-07T09:38:40.370Z",
+        "song_id": "78f8814d-947e-4b62-b24e-bb714d8f8914",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f5cf721-3a42-4e9a-a7af-f940c40c89b2",
+        "date_added": "2023-09-07T07:28:14.763Z",
+        "created_at": "2023-09-06T16:02:46.837Z",
+        "updated_at": "2023-09-06T10:24:57.944Z",
+        "song_id": "78f8814d-947e-4b62-b24e-bb714d8f8914",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39b3b095-ed61-40fb-92b6-3ab72b752afd",
+        "date_added": "2023-09-07T00:32:24.320Z",
+        "created_at": "2023-09-07T04:35:39.812Z",
+        "updated_at": "2023-09-07T03:09:36.002Z",
+        "song_id": "64048cfd-7d98-4890-9846-8e89603a54e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1924b82-7006-452b-bfd7-7c94d18d8cd9",
+        "date_added": "2023-09-07T04:32:31.644Z",
+        "created_at": "2023-09-07T00:53:04.509Z",
+        "updated_at": "2023-09-07T05:58:20.085Z",
+        "song_id": "78f8814d-947e-4b62-b24e-bb714d8f8914",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88b0b49c-65f6-4e37-a7ea-80fe2c0c3d0d",
+        "date_added": "2023-09-07T03:07:52.840Z",
+        "created_at": "2023-09-06T18:55:47.224Z",
+        "updated_at": "2023-09-06T19:05:05.653Z",
+        "song_id": "04667c35-2e20-4a04-9711-8e9621acca10",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7c8819c9-2f89-4b40-b00a-a32dec5a9055",
+        "email": "Katrine55@yahoo.com",
+        "firstName": "Jack",
+        "lastName": "Bechtelar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46470589",
+        "tenantId": null
+      },
+      {
+        "reference": "b31c3d39-ce02-4663-9dc3-bdb4a201f0ea",
+        "email": "Carole_Nader55@hotmail.com",
+        "firstName": "Conrad",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30458783",
+        "tenantId": null
+      },
+      {
+        "reference": "bd3f21ee-0080-4b6d-9dbd-68e320a80c29",
+        "email": "Cole_Lakin@gmail.com",
+        "firstName": "Dawson",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/942.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bcdb7bc0-8bbf-427c-bdf0-f2d74b6fa708",
+        "email": "Maymie.Jacobson88@hotmail.com",
+        "firstName": "Cooper",
+        "lastName": "Hodkiewicz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64854727",
+        "tenantId": null
+      },
+      {
+        "reference": "52f5e983-411b-4fa4-a759-ea42fa07c3cb",
+        "email": "Hilton25@gmail.com",
+        "firstName": "Uriah",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66999493",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "95b51fc7-5ba6-461c-bbb3-7c5c8ab110ae",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "duration": 23519,
+        "release_date": "2023-09-06T14:15:30.504Z",
+        "created_at": "2023-09-06T17:14:30.332Z",
+        "updated_at": "2023-09-06T17:28:08.272Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "395d0351-e5b4-44f1-8043-65fefb97034d",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Classic Rock",
+        "duration": 47510,
+        "release_date": "2023-09-06T16:38:05.758Z",
+        "created_at": "2023-09-07T05:51:49.392Z",
+        "updated_at": "2023-09-06T19:56:52.268Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "709481a2-cd87-4b62-a8bd-7d8cf9964e89",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Pop",
+        "duration": 2575,
+        "release_date": "2023-09-07T06:14:32.440Z",
+        "created_at": "2023-09-07T08:22:44.812Z",
+        "updated_at": "2023-09-06T16:32:25.364Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "565d66d7-ef67-422d-84cb-583df870c421",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "genre": "Alternative",
+        "duration": 86625,
+        "release_date": "2023-09-06T20:41:00.852Z",
+        "created_at": "2023-09-06T21:01:55.405Z",
+        "updated_at": "2023-09-07T00:10:55.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7efe116-85d6-4e5e-81b7-7f00b736dab5",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "genre": "Metal",
+        "duration": 82742,
+        "release_date": "2023-09-07T07:47:40.171Z",
+        "created_at": "2023-09-06T17:41:55.200Z",
+        "updated_at": "2023-09-06T20:33:47.542Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "1282db21-9680-4bd3-b2e7-4744fd10d961",
+        "name": "Road Trip",
+        "description": "The perfect playlist for your next road trip",
+        "date_created": "2023-09-06T16:49:27.458Z",
+        "last_updated": "2023-09-07T06:11:32.863Z",
+        "created_at": "2023-09-06T22:16:16.384Z",
+        "updated_at": "2023-09-06T23:02:57.205Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ec6c600-ac81-40e4-bd7c-cc854189706e",
+        "name": "Chill Vibes",
+        "description": "Sit back and relax with these chill vibes",
+        "date_created": "2023-09-06T11:01:10.059Z",
+        "last_updated": "2023-09-06T19:47:27.454Z",
+        "created_at": "2023-09-07T00:33:58.483Z",
+        "updated_at": "2023-09-06T22:21:59.049Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a35c05f-12eb-42fa-a995-d5a2f3eee9ab",
+        "name": "Party Mix",
+        "description": "Get the party started with this mix",
+        "date_created": "2023-09-06T16:35:10.040Z",
+        "last_updated": "2023-09-07T03:55:31.240Z",
+        "created_at": "2023-09-07T04:43:58.119Z",
+        "updated_at": "2023-09-06T21:07:45.576Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f0c73ae-6323-42cb-8d63-bc00f1302873",
+        "name": "Workout Jams",
+        "description": "Motivate yourself with these high-energy workout jams",
+        "date_created": "2023-09-06T17:51:55.698Z",
+        "last_updated": "2023-09-06T22:54:21.206Z",
+        "created_at": "2023-09-06T23:46:25.310Z",
+        "updated_at": "2023-09-06T11:45:19.535Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e533c29a-bee9-4b83-ba27-bd9b0e50fe49",
+        "name": "Relaxation Station",
+        "description": "Unwind and destress with this collection of relaxing tunes",
+        "date_created": "2023-09-06T13:14:54.998Z",
+        "last_updated": "2023-09-07T09:01:10.437Z",
+        "created_at": "2023-09-06T23:19:45.815Z",
+        "updated_at": "2023-09-06T16:05:48.510Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "532f1e55-9195-448c-87a2-4ef5ae3879e9",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "MP3-2000",
+        "storage_capacity": 39851,
+        "battery_life": 6306,
+        "created_at": "2023-09-06T11:15:08.065Z",
+        "updated_at": "2023-09-07T09:48:37.732Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "583bda37-3696-4c31-ad08-8c08a04ffd78",
+        "name": "Audio Pro",
+        "brand": "Apple",
+        "model": "AudiPod 500",
+        "storage_capacity": 72172,
+        "battery_life": 78218,
+        "created_at": "2023-09-07T09:24:57.815Z",
+        "updated_at": "2023-09-07T07:11:32.740Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31b56b90-7f72-4eff-b3fb-d35cac4e6039",
+        "name": "Sound Supreme",
+        "brand": "Bose",
+        "model": "SoundWave 3000",
+        "storage_capacity": 88440,
+        "battery_life": 15139,
+        "created_at": "2023-09-06T17:26:45.211Z",
+        "updated_at": "2023-09-07T00:29:28.815Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2535c585-9b62-4e26-a92d-f705e3776c3a",
+        "name": "MeloTunes",
+        "brand": "Samsung",
+        "model": "MeloPlayer X",
+        "storage_capacity": 25352,
+        "battery_life": 64696,
+        "created_at": "2023-09-07T06:07:07.835Z",
+        "updated_at": "2023-09-06T14:09:54.080Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d84987b6-3828-443d-9d2f-6aeb1c5df422",
+        "name": "BeatBox",
+        "brand": "JBL",
+        "model": "BeatBox Pro",
+        "storage_capacity": 45331,
+        "battery_life": 18662,
+        "created_at": "2023-09-06T15:52:33.956Z",
+        "updated_at": "2023-09-06T15:52:39.892Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "1fa6dd85-7312-4585-a0d3-399b8b486244",
+        "date_added": "2023-09-06T20:12:22.396Z",
+        "created_at": "2023-09-06T15:24:02.290Z",
+        "updated_at": "2023-09-06T14:49:29.916Z",
+        "song_id": "709481a2-cd87-4b62-a8bd-7d8cf9964e89",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12b46e27-e557-4ae8-8406-c09cfed6c121",
+        "date_added": "2023-09-06T21:13:02.006Z",
+        "created_at": "2023-09-06T23:19:27.986Z",
+        "updated_at": "2023-09-07T09:50:50.648Z",
+        "song_id": "f7efe116-85d6-4e5e-81b7-7f00b736dab5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bae1337-f047-4cb2-85df-df9df3024aad",
+        "date_added": "2023-09-07T04:06:44.870Z",
+        "created_at": "2023-09-06T13:26:55.682Z",
+        "updated_at": "2023-09-07T00:09:27.249Z",
+        "song_id": "395d0351-e5b4-44f1-8043-65fefb97034d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f187a054-4474-4160-a98e-a6d6ad43feff",
+        "date_added": "2023-09-07T09:38:14.964Z",
+        "created_at": "2023-09-06T14:00:30.293Z",
+        "updated_at": "2023-09-07T05:56:37.844Z",
+        "song_id": "709481a2-cd87-4b62-a8bd-7d8cf9964e89",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e8b2afa-6059-47fa-81d9-ff9f053cad0c",
+        "date_added": "2023-09-06T16:36:03.792Z",
+        "created_at": "2023-09-06T18:46:08.035Z",
+        "updated_at": "2023-09-06T19:52:46.236Z",
+        "song_id": "95b51fc7-5ba6-461c-bbb3-7c5c8ab110ae",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8b47f4d4-6d57-4b4c-bdb7-775774f4fed3",
+        "email": "Anabelle40@hotmail.com",
+        "firstName": "Lysanne",
+        "lastName": "Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89127374",
+        "tenantId": null
+      },
+      {
+        "reference": "5a202b6f-3db9-41fe-90b0-2b154cb13c8d",
+        "email": "Freida24@gmail.com",
+        "firstName": "Reginald",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39107451",
+        "tenantId": null
+      },
+      {
+        "reference": "99ac5b61-94b8-4602-bfdd-b99f667a42e1",
+        "email": "Victor.Halvorson@gmail.com",
+        "firstName": "Pamela",
+        "lastName": "Ruecker-Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/968.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "403e13d6-d935-4e87-a884-6d034bffba0d",
+        "email": "Genevieve_Waters@yahoo.com",
+        "firstName": "Jennifer",
+        "lastName": "Ondricka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/31.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e0763d85-cdca-4e49-be02-d9d65d5deb74",
+        "email": "Beverly_Considine@yahoo.com",
+        "firstName": "Dora",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14620381",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "bc876235-4a4e-46b6-bef6-5b43cde4bb42",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "duration": 79251,
+        "release_date": "2023-09-06T23:54:43.805Z",
+        "created_at": "2023-09-06T22:49:05.661Z",
+        "updated_at": "2023-09-06T19:37:53.529Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5403b0e0-b985-47b9-b866-293081c32ccf",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "duration": 26612,
+        "release_date": "2023-09-07T00:29:53.925Z",
+        "created_at": "2023-09-07T09:09:54.407Z",
+        "updated_at": "2023-09-06T10:54:24.808Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6af599f-fd17-4ecc-a407-f6883f7233a8",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "genre": "Classic",
+        "duration": 15667,
+        "release_date": "2023-09-06T12:56:02.217Z",
+        "created_at": "2023-09-06T17:36:13.513Z",
+        "updated_at": "2023-09-06T21:58:04.009Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d75a1c5-b23f-42cf-82cc-56098085f37b",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Country",
+        "duration": 29196,
+        "release_date": "2023-09-07T07:34:31.100Z",
+        "created_at": "2023-09-07T05:48:47.515Z",
+        "updated_at": "2023-09-06T15:23:39.083Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcdea8be-6883-4a54-a484-c62175aa8d09",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Alternative",
+        "duration": 72752,
+        "release_date": "2023-09-06T20:48:02.700Z",
+        "created_at": "2023-09-06T17:03:28.294Z",
+        "updated_at": "2023-09-07T05:17:21.772Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "07e7dbc5-8510-4878-915e-8d43c1224a62",
+        "name": "Summer Vibes",
+        "description": "Enjoy the best songs for summer",
+        "date_created": "2023-09-06T21:01:53.541Z",
+        "last_updated": "2023-09-06T12:29:03.224Z",
+        "created_at": "2023-09-06T16:42:48.344Z",
+        "updated_at": "2023-09-07T07:20:41.956Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a843e07f-c9da-4fab-a279-f7951d52c9f0",
+        "name": "Throwback Hits",
+        "description": "Relive the classics from the past",
+        "date_created": "2023-09-06T17:33:13.867Z",
+        "last_updated": "2023-09-07T03:56:42.299Z",
+        "created_at": "2023-09-07T04:30:52.224Z",
+        "updated_at": "2023-09-07T00:30:35.241Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea2c999e-3667-4c8f-addf-0e18c52be41b",
+        "name": "Chill Out",
+        "description": "Relax and unwind with these soothing tunes",
+        "date_created": "2023-09-07T04:41:57.083Z",
+        "last_updated": "2023-09-06T12:42:43.301Z",
+        "created_at": "2023-09-06T17:06:27.098Z",
+        "updated_at": "2023-09-06T14:17:05.733Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec0db361-b81b-4a29-b6fc-26f0bf5ff4c1",
+        "name": "Road Trip",
+        "description": "Perfect songs for your next road trip",
+        "date_created": "2023-09-06T22:21:41.853Z",
+        "last_updated": "2023-09-06T10:27:19.470Z",
+        "created_at": "2023-09-07T02:41:23.691Z",
+        "updated_at": "2023-09-06T10:46:09.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48348c8f-eb4d-40b4-a37a-33c0ebb7b8a4",
+        "name": "Party Mix",
+        "description": "Get the party started with this mix of upbeat tracks",
+        "date_created": "2023-09-07T06:28:33.274Z",
+        "last_updated": "2023-09-07T08:54:37.745Z",
+        "created_at": "2023-09-06T23:52:25.498Z",
+        "updated_at": "2023-09-07T02:41:38.102Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "6aa447c0-f8ab-482e-8dbc-01af8572a668",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "MP3-1000",
+        "storage_capacity": 72999,
+        "battery_life": 86092,
+        "created_at": "2023-09-07T07:44:40.655Z",
+        "updated_at": "2023-09-06T10:33:43.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28611a3d-ee3f-445e-8d27-eacac941eab3",
+        "name": "SoundWave",
+        "brand": "Apple",
+        "model": "SoundPod",
+        "storage_capacity": 65299,
+        "battery_life": 18001,
+        "created_at": "2023-09-06T13:55:24.119Z",
+        "updated_at": "2023-09-06T20:10:43.693Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1f4bb20-6cd7-432e-8c2d-0f5e58750dcb",
+        "name": "AudioPro",
+        "brand": "Bose",
+        "model": "AudioMax",
+        "storage_capacity": 31602,
+        "battery_life": 41842,
+        "created_at": "2023-09-07T05:21:05.096Z",
+        "updated_at": "2023-09-07T09:23:18.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adaa43ea-adaa-4a46-8c81-971c562979d5",
+        "name": "Melody Maker",
+        "brand": "Samsung",
+        "model": "MelodyPro",
+        "storage_capacity": 62856,
+        "battery_life": 82380,
+        "created_at": "2023-09-06T18:44:25.866Z",
+        "updated_at": "2023-09-06T14:30:20.862Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbee521d-cd39-46c2-815e-b77f87319705",
+        "name": "BeatBox",
+        "brand": "JBL",
+        "model": "BeatBlast",
+        "storage_capacity": 25325,
+        "battery_life": 84119,
+        "created_at": "2023-09-06T11:15:27.486Z",
+        "updated_at": "2023-09-07T00:21:00.327Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "9f3c95b2-7a74-4e71-bb06-f2edf7ef4e18",
+        "date_added": "2023-09-06T15:53:33.893Z",
+        "created_at": "2023-09-07T00:08:10.536Z",
+        "updated_at": "2023-09-06T20:08:07.795Z",
+        "song_id": "dcdea8be-6883-4a54-a484-c62175aa8d09",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0839344b-d5dc-47cc-b618-16dc40d46032",
+        "date_added": "2023-09-07T04:18:18.807Z",
+        "created_at": "2023-09-06T21:36:11.889Z",
+        "updated_at": "2023-09-06T11:17:16.324Z",
+        "song_id": "d6af599f-fd17-4ecc-a407-f6883f7233a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7fed3cb-d751-4f33-bda9-ad9c97e13e1d",
+        "date_added": "2023-09-06T19:53:49.665Z",
+        "created_at": "2023-09-06T21:03:20.203Z",
+        "updated_at": "2023-09-07T00:20:14.099Z",
+        "song_id": "4d75a1c5-b23f-42cf-82cc-56098085f37b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81729496-8fc8-4951-a4f8-cc189529e5de",
+        "date_added": "2023-09-06T11:32:41.916Z",
+        "created_at": "2023-09-06T21:01:50.595Z",
+        "updated_at": "2023-09-07T00:13:41.844Z",
+        "song_id": "5403b0e0-b985-47b9-b866-293081c32ccf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c80e69a1-f6aa-468f-9ccf-d6bd57d31b70",
+        "date_added": "2023-09-07T08:25:06.806Z",
+        "created_at": "2023-09-07T08:34:02.481Z",
+        "updated_at": "2023-09-07T10:05:36.953Z",
+        "song_id": "bc876235-4a4e-46b6-bef6-5b43cde4bb42",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "161c2d91-9603-45d7-a8f9-6a058379cd86",
+        "email": "Maeve76@hotmail.com",
+        "firstName": "Joanne",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/808.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8b0f7bdd-eea3-4aaf-b05e-0a9aa7102bae",
+        "email": "Jadyn.Tillman92@hotmail.com",
+        "firstName": "Jamison",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73102172",
+        "tenantId": null
+      },
+      {
+        "reference": "fe6c4a5f-1376-4bc5-9cc8-5ed1abe40a0b",
+        "email": "Marquis.Haley@hotmail.com",
+        "firstName": "Justice",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71882596",
+        "tenantId": null
+      },
+      {
+        "reference": "98450d0f-8c0e-4ed6-9dc8-af4b53996551",
+        "email": "Michele79@yahoo.com",
+        "firstName": "Burnice",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57930127",
+        "tenantId": null
+      },
+      {
+        "reference": "3e685289-cce2-4708-9abe-01a6dadd59d4",
+        "email": "Rosario_Stark@yahoo.com",
+        "firstName": "Shyanne",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98813766",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "47b257a2-3bcf-4bd9-9026-9c10ae945eaf",
+        "title": "Happy",
+        "artist": "John Legend",
+        "genre": "Pop",
+        "duration": 40463,
+        "release_date": "2023-09-07T04:37:46.809Z",
+        "created_at": "2023-09-06T14:01:35.424Z",
+        "updated_at": "2023-09-06T13:17:41.227Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c96b47a7-5953-488d-894b-467b477a7df8",
+        "title": "Sunshine",
+        "artist": "Taylor Swift",
+        "genre": "Rock",
+        "duration": 67788,
+        "release_date": "2023-09-06T20:48:34.214Z",
+        "created_at": "2023-09-06T12:12:48.689Z",
+        "updated_at": "2023-09-06T18:35:56.262Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f6f2147-00e8-44ad-beb7-bd9ba301f5d2",
+        "title": "Dreams",
+        "artist": "Ed Sheeran",
+        "genre": "R&B",
+        "duration": 41830,
+        "release_date": "2023-09-06T13:21:24.865Z",
+        "created_at": "2023-09-06T22:45:54.462Z",
+        "updated_at": "2023-09-06T16:48:38.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5983e47-ee21-4eea-888f-5804c8698660",
+        "title": "Memories",
+        "artist": "Adele",
+        "genre": "Country",
+        "duration": 37445,
+        "release_date": "2023-09-07T04:58:12.972Z",
+        "created_at": "2023-09-06T11:07:37.610Z",
+        "updated_at": "2023-09-06T13:21:47.917Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ff9712c-37ae-4bfa-a8ab-25ea30b84e9b",
+        "title": "Journey",
+        "artist": "Maroon 5",
+        "genre": "Hip Hop",
+        "duration": 85903,
+        "release_date": "2023-09-07T04:10:31.684Z",
+        "created_at": "2023-09-07T00:33:44.919Z",
+        "updated_at": "2023-09-06T18:00:59.339Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "playlist": [
+      {
+        "id": "9e3c8462-cc9a-40b5-8527-c2ffdcd05fa0",
+        "name": "Favorites",
+        "description": "A collection of my favorite songs",
+        "date_created": "2023-09-07T05:24:30.657Z",
+        "last_updated": "2023-09-06T12:41:25.625Z",
+        "created_at": "2023-09-07T00:29:04.943Z",
+        "updated_at": "2023-09-06T19:42:46.794Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcee0e50-c138-46cc-933b-1f5e2c4d60c2",
+        "name": "Chill Vibes",
+        "description": "Relaxing tunes for a peaceful day",
+        "date_created": "2023-09-06T11:57:37.250Z",
+        "last_updated": "2023-09-07T07:49:42.260Z",
+        "created_at": "2023-09-06T19:17:42.177Z",
+        "updated_at": "2023-09-06T19:29:21.160Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6bc552a5-60ce-4d81-99fd-0136fe310fc8",
+        "name": "Road Trip",
+        "description": "Music to accompany your journey",
+        "date_created": "2023-09-06T11:13:21.661Z",
+        "last_updated": "2023-09-07T09:26:16.642Z",
+        "created_at": "2023-09-07T02:13:36.727Z",
+        "updated_at": "2023-09-07T00:10:52.617Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a1284d1-99e4-454a-8297-4ac12ace0d7f",
+        "name": "Workout Mix",
+        "description": "Get pumped with these energetic tracks",
+        "date_created": "2023-09-07T02:56:28.302Z",
+        "last_updated": "2023-09-06T18:00:38.108Z",
+        "created_at": "2023-09-07T00:28:13.526Z",
+        "updated_at": "2023-09-07T06:47:04.639Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70ea0028-2c26-420e-9e77-d5c4df76d340",
+        "name": "Party Anthems",
+        "description": "The ultimate party playlist",
+        "date_created": "2023-09-06T14:05:41.163Z",
+        "last_updated": "2023-09-06T22:00:32.118Z",
+        "created_at": "2023-09-06T19:48:19.779Z",
+        "updated_at": "2023-09-06T14:04:14.862Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "aaa7f955-79db-44b5-8951-1f8d4036da0f",
+        "name": "Music Master",
+        "brand": "Sony",
+        "model": "X1",
+        "storage_capacity": 9024,
+        "battery_life": 74218,
+        "created_at": "2023-09-07T07:16:30.518Z",
+        "updated_at": "2023-09-06T18:56:19.159Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1dabd3d-f5d5-44fa-ba73-8923dc0763e3",
+        "name": "Soundwave",
+        "brand": "Apple",
+        "model": "Pro 2",
+        "storage_capacity": 17343,
+        "battery_life": 41899,
+        "created_at": "2023-09-07T08:30:49.413Z",
+        "updated_at": "2023-09-06T17:47:41.372Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6689b3b9-5cde-483f-87a8-25c49146e771",
+        "name": "Melody Maker",
+        "brand": "Samsung",
+        "model": "Ultra 5",
+        "storage_capacity": 42375,
+        "battery_life": 84428,
+        "created_at": "2023-09-07T00:38:46.449Z",
+        "updated_at": "2023-09-06T14:27:34.375Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5ab6fe1-0ed8-4847-918d-79153b466a75",
+        "name": "Rhythm King",
+        "brand": "Bose",
+        "model": "Maxx 3",
+        "storage_capacity": 9806,
+        "battery_life": 20711,
+        "created_at": "2023-09-07T00:42:56.967Z",
+        "updated_at": "2023-09-07T00:29:22.484Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e998dad9-ee95-4ae4-bbb3-0cf2574132b3",
+        "name": "Audio Ace",
+        "brand": "JBL",
+        "model": "Epic 4",
+        "storage_capacity": 76396,
+        "battery_life": 3600,
+        "created_at": "2023-09-07T02:34:25.733Z",
+        "updated_at": "2023-09-06T12:07:09.066Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "2cd2b6e6-0ce1-4ce3-b4b4-114fffed74ce",
+        "date_added": "2023-09-06T23:24:47.511Z",
+        "created_at": "2023-09-06T16:24:43.900Z",
+        "updated_at": "2023-09-06T20:40:08.196Z",
+        "song_id": "0f6f2147-00e8-44ad-beb7-bd9ba301f5d2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f034189-65a7-499e-be1a-d326221c5a35",
+        "date_added": "2023-09-06T16:23:26.184Z",
+        "created_at": "2023-09-07T03:43:13.207Z",
+        "updated_at": "2023-09-07T05:18:35.188Z",
+        "song_id": "d5983e47-ee21-4eea-888f-5804c8698660",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15399725-8bee-4b6a-ae1b-22f1432c9e2f",
+        "date_added": "2023-09-06T10:23:16.122Z",
+        "created_at": "2023-09-06T12:08:40.738Z",
+        "updated_at": "2023-09-07T01:31:44.832Z",
+        "song_id": "4ff9712c-37ae-4bfa-a8ab-25ea30b84e9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15452ec2-01ad-4082-9455-96c6e89a64c9",
+        "date_added": "2023-09-06T19:35:22.114Z",
+        "created_at": "2023-09-06T15:14:07.976Z",
+        "updated_at": "2023-09-07T10:18:35.841Z",
+        "song_id": "4ff9712c-37ae-4bfa-a8ab-25ea30b84e9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c5164f0-bfb1-48e1-b24a-e31e9e0cf3f3",
+        "date_added": "2023-09-07T05:26:28.378Z",
+        "created_at": "2023-09-07T01:07:00.940Z",
+        "updated_at": "2023-09-07T04:21:44.606Z",
+        "song_id": "0f6f2147-00e8-44ad-beb7-bd9ba301f5d2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d9f52aa9-c724-4fbb-b3b8-e827a7d26474",
+        "email": "Tito.Rosenbaum@gmail.com",
+        "firstName": "Moriah",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1164.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "311a653a-b559-4114-ac1c-8e1e9a12b029",
+        "email": "Jarrell_Rolfson@hotmail.com",
+        "firstName": "Elvera",
+        "lastName": "DuBuque",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/794.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "54e35143-5f46-4809-8c56-07843bc88a24",
+        "email": "Arnulfo_Schaefer79@gmail.com",
+        "firstName": "Hoyt",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90311936",
+        "tenantId": null
+      },
+      {
+        "reference": "f70ea9b7-10d9-4268-9145-29930171c22a",
+        "email": "Austyn21@yahoo.com",
+        "firstName": "Melany",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97365511",
+        "tenantId": null
+      },
+      {
+        "reference": "2357cb65-da1b-417e-9d32-c5c26db2fffd",
+        "email": "Aimee_Gibson@gmail.com",
+        "firstName": "Leopoldo",
+        "lastName": "Osinski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
